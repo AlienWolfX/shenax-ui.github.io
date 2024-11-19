@@ -45,4 +45,3 @@ const achievements = () => (
 )
 
 export default achievements
-export { getServerSideProps } from '../components/chakra'
